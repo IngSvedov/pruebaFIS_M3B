@@ -25,7 +25,7 @@ code .
 
 1. Crear un nuevo archivo `heroes.md`.
 Ejecutar los comandos `git add heroes.md` y `git commit -m "create heroes file"`
-
+git add heroes.md    
 2. Editar el archivo `heroes.md` agregando las siguientes líneas:
 ```
 Iron Man
